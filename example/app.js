@@ -36,5 +36,4 @@ function setupButtons (ethQuery) {
     })
     logToDom(txHash, 'cb-value')
   })
-
 }
